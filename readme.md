@@ -78,7 +78,7 @@ To add a Web App:
  - [Smallpdf](https://smallpdf.com/) - Con: Not entirely free. Pro: Good user interface. Pro: Can merge and split PDFs. Con: No easy mix of different document types: Cannot easily convert documents of different types (e.g. an excel document and an image) into a single PDF.
  - [jpg2pdf](http://jpg2pdf.com/) - Pro: Free. Con: Keeps image layout: PDF page format can vary. Con: no options at all. Pro: compresses documents.
  - [convert-jpg-to-pdf](http://www.convert-jpg-to-pdf.net/) - Pro: Free. Con: No automatic image rotation. Con: No compression: images don't get compressed leading to heavy pdf files. Pro: Supports common page formats: Like A4, letter etc.
- [jpgtopdftool](https://jpgtopdftool.com/) - Pro: Free. Con: It may be slow when upload bulk or HD images. Con: support only JPG, JPEG, PNG, and GIF format of image.
+ - [jpgtopdftool](https://jpgtopdftool.com/) - Pro: Free. Con: It may be slow when upload bulk or HD images. Con: support only JPG, JPEG, PNG, and GIF format of image.
 
 ###### Edit PDF content
 <!---
